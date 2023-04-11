@@ -1,6 +1,6 @@
 ### Hi there , I'am Kaustav Bose 👋
 - 🔭 I’m currently working on Android and Web(MERN)
-- 💬 Ask me about Android , JAVA , C , Web
+- 💬 Ask me about Android , JAVA , C , SQL , MongoDB , Node
 - 📫 How to reach me: [LinkedIn - @kbosedbl](https://www.linkedin.com/in/kaustav-bose-3433b1187/)
 - 😄 Pronouns: He/Him/Bro/Dude
 <h3 align="left">Languages and Tools:</h3>
