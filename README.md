@@ -1,7 +1,7 @@
 ### Hi there , I'am Kaustav Bose 👋
+<img align="right" alt="GIF" src="https://i0.wp.com/media3.giphy.com/media/8vc2rMUDjhy6Y/giphy.gif"/>
 🔭 I’m currently working on Android and Web(MERN)
 </br>
-<img align="right" alt="GIF" src="https://i0.wp.com/media3.giphy.com/media/8vc2rMUDjhy6Y/giphy.gif"/>
 💬 Ask me about Android , JAVA , C , SQL , MongoDB , Node
 </br>
 📫 How to reach me: <a href="https://www.linkedin.com/in/kaustav-bose-3433b1187/">[LinkedIn - @kbosedbl]</a>
