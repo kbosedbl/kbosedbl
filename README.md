@@ -1,5 +1,5 @@
 ### Hi there , I'am Kaustav Bose 👋
-<img align="right" alt="GIF" src="https://media3.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" />
+<img align="right" alt="GIF" src="https://gifdb.com/images/high/spiderman-cartoon-salute-2sslskivp73eaa8w.gif"/>
 🔭 I’m currently working on Android and Web(MERN)
 </br>
 💬 Ask me about Android , JAVA , C , SQL , MongoDB , Node
